@@ -23,3 +23,15 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 - Java
 
 - ⭐ If you find this repository helpful, feel free to star it!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->

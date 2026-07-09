@@ -38,12 +38,15 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

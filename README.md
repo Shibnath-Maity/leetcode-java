@@ -30,6 +30,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -71,4 +72,12 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

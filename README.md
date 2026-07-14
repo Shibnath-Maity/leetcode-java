@@ -35,6 +35,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +85,5 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 <!---LeetCode Topics End-->

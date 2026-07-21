@@ -35,6 +35,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
@@ -53,6 +54,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -105,6 +107,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->

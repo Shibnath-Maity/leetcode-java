@@ -53,6 +53,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
@@ -81,6 +82,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -121,4 +123,8 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0986-interval-list-intersections) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

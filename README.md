@@ -127,4 +127,5 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

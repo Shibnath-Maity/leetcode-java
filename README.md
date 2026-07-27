@@ -132,4 +132,9 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0058-length-of-last-word](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->

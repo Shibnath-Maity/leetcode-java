@@ -37,6 +37,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0724-find-pivot-index) |
@@ -138,5 +139,10 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

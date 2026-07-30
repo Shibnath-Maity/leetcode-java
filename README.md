@@ -49,6 +49,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
@@ -86,6 +87,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |

@@ -44,6 +44,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 ## Sweep Line
 |  |
 | ------- |

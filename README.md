@@ -33,6 +33,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0057-insert-interval) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0283-move-zeroes) |
@@ -107,6 +108,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |

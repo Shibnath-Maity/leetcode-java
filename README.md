@@ -46,6 +46,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0986-interval-list-intersections](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1920-build-array-from-permutation](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1920-build-array-from-permutation) |
 ## Binary Search
@@ -156,4 +157,8 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1920-build-array-from-permutation) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->

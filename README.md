@@ -67,6 +67,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1189-maximum-number-of-balloons) |
@@ -148,6 +149,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0151-reverse-words-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
+| [0409-longest-palindrome](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1189-maximum-number-of-balloons) |
@@ -179,4 +181,8 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0383-ransom-note](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1189-maximum-number-of-balloons) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->

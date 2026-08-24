@@ -76,6 +76,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
@@ -83,6 +84,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0151-reverse-words-in-a-string) |

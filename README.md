@@ -41,6 +41,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
@@ -57,6 +58,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0069-sqrtx](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0704-binary-search](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |

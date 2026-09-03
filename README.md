@@ -36,6 +36,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0057-insert-interval](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0217-contains-duplicate](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0141-linked-list-cycle](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
@@ -115,6 +117,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer

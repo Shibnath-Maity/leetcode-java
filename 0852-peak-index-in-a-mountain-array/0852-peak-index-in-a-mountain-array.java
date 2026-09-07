@@ -1,13 +1,19 @@
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
-        for(int i=1;i<arr.length;i++){
-            if(arr[i-1]<arr[i] && arr[i+1]<arr[i]){
-                return i;
-            
-            }
-     
+       int low=0;
+       int high=arr.length-1;
+       int res=-1;
+       while(low<=high){
+        int guess=(low+high)/2;
+        if(arr[guess]>arr[guess+1]){
+            res=guess;
+            high=guess-1;
+        }else{
+            low=guess+1;
         }
-           return -1;
+
+       }
+       return res;
         
     }
 }

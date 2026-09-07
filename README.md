@@ -46,6 +46,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0704-binary-search](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -62,6 +63,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,4 +207,8 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0021-merge-two-sorted-lists](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0206-reverse-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

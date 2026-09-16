@@ -51,6 +51,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0875-koko-eating-bananas](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [0986-interval-list-intersections](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0986-interval-list-intersections) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1672-richest-customer-wealth) |
@@ -68,6 +69,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0704-binary-search](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |

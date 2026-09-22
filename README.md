@@ -42,6 +42,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
@@ -80,6 +81,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0409-longest-palindrome) |
@@ -129,12 +131,14 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0215-kth-largest-element-in-an-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -203,6 +207,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1189-maximum-number-of-balloons) |
@@ -224,8 +229,14 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

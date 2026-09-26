@@ -43,6 +43,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0283-move-zeroes](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0560-subarray-sum-equals-k) |
@@ -137,6 +138,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0767-reorganize-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
@@ -228,6 +230,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0767-reorganize-string) |
 ## Recursion
 |  |
@@ -245,6 +248,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0215-kth-largest-element-in-an-array](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0767-reorganize-string) |
 ## Quickselect

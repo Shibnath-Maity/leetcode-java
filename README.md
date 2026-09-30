@@ -127,6 +127,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0069-sqrtx](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0509-fibonacci-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shibnath-Maity/leetcode-java/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Sorting
@@ -155,6 +156,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0053-maximum-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shibnath-Maity/leetcode-java/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -238,6 +240,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0021-merge-two-sorted-lists](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0509-fibonacci-number) |
 ## Ternary Search
 |  |
 | ------- |
@@ -266,4 +269,8 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0692-top-k-frequent-words) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

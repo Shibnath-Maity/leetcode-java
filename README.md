@@ -210,6 +210,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0739-daily-temperatures) |
@@ -294,4 +295,16 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->

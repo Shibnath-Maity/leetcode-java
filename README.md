@@ -307,6 +307,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0102-binary-tree-level-order-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -316,6 +317,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0100-same-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -326,6 +328,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0102-binary-tree-level-order-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -339,13 +342,16 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Binary Lifting
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

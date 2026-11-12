@@ -102,6 +102,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0061-rotate-list) |
@@ -132,6 +133,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0202-happy-number) |
@@ -255,6 +257,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0206-reverse-linked-list) |

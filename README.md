@@ -350,6 +350,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0437-path-sum-iii](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -384,6 +385,7 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 | [0112-path-sum](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
@@ -408,4 +410,20 @@ This repository contains my accepted Java solutions to LeetCode problems. I'm so
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0543-diameter-of-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Shibnath-Maity/leetcode-java/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
